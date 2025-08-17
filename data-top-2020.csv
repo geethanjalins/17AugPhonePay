@@ -1,0 +1,101 @@
+States,Yr,Quater,district,total_insurance_amount,total_insurance_transactions,total_registered_users
+karnataka,2020,3,bengaluru urban,6940765,32192,8611452
+karnataka,2020,2,bengaluru urban,3301769,20040,8028070
+karnataka,2020,4,bengaluru urban,15922383,18485,9286243
+maharashtra,2020,3,pune,4567561,18176,5546002
+maharashtra,2020,2,pune,1482628,8699,5144688
+maharashtra,2020,4,pune,4862704,8211,6033615
+andhra-pradesh,2020,3,visakhapatnam,1892376,7906,2058346
+maharashtra,2020,2,thane,1221018,7559,3135101
+maharashtra,2020,3,thane,1718946,6951,3401853
+telangana,2020,3,rangareddy,1509162,6340,2495699
+telangana,2020,3,hyderabad,1397580,6331,2875965
+maharashtra,2020,4,thane,4405413,5939,3727358
+telangana,2020,3,medchal malkajgiri,1415970,5929,2111567
+maharashtra,2020,2,mumbai suburban,884439,5780,3060916
+maharashtra,2020,3,nashik,1418697,5564,1752191
+andhra-pradesh,2020,3,spsr nellore,1259159,5509,937176
+telangana,2020,2,hyderabad,805518,4783,2653534
+maharashtra,2020,4,mumbai suburban,3301120,4631,3609970
+andhra-pradesh,2020,3,krishna,1093882,4519,1599289
+telangana,2020,2,rangareddy,778492,4495,2313748
+rajasthan,2020,3,jaipur,1131777,4428,3433167
+andhra-pradesh,2020,3,chittoor,1178762,4422,1506503
+andhra-pradesh,2020,3,guntur,1083584,4230,1567595
+telangana,2020,2,medchal malkajgiri,711890,4150,1963353
+maharashtra,2020,3,aurangabad,982466,4125,1244879
+andhra-pradesh,2020,3,east godavari,970549,3783,1601940
+telangana,2020,4,hyderabad,1892565,3682,3142385
+maharashtra,2020,3,mumbai suburban,902028,3674,3304696
+andhra-pradesh,2020,2,visakhapatnam,614212,3504,1904719
+andhra-pradesh,2020,3,kurnool,841970,3493,1132240
+telangana,2020,4,rangareddy,2124943,3486,2704868
+andhra-pradesh,2020,4,visakhapatnam,2203761,3464,2209658
+andhra-pradesh,2020,3,ysr,847519,3397,0
+rajasthan,2020,4,jaipur,1641429,3318,3679874
+telangana,2020,4,medchal malkajgiri,2034226,3298,2282695
+maharashtra,2020,3,ahmednagar,926591,3194,1123648
+maharashtra,2020,3,solapur,785356,3034,1012518
+andhra-pradesh,2020,3,vizianagaram,691281,2999,0
+andhra-pradesh,2020,3,anantapur,764850,2911,1186851
+maharashtra,2020,4,nashik,1492155,2903,1907318
+maharashtra,2020,2,aurangabad,496194,2844,1142730
+andhra-pradesh,2020,2,anantapur,485777,2739,1076953
+maharashtra,2020,3,nagpur,792995,2721,1502777
+andhra-pradesh,2020,2,krishna,475539,2698,1459041
+west-bengal,2020,3,north twenty four parganas,617166,2689,2143943
+gujarat,2020,3,ahmadabad,655107,2682,2580178
+madhya-pradesh,2020,3,indore,650508,2651,1524036
+haryana,2020,2,gurugram,438481,2571,1809777
+andhra-pradesh,2020,4,guntur,1620649,2570,1712940
+odisha,2020,3,khordha,565649,2540,1232760
+maharashtra,2020,2,nashik,459865,2519,1602650
+haryana,2020,4,gurugram,1626450,2380,2104240
+kerala,2020,3,ernakulam,725788,2380,917356
+maharashtra,2020,3,raigad,617257,2368,0
+uttar-pradesh,2020,2,gautam buddha nagar,394994,2335,1756163
+andhra-pradesh,2020,4,krishna,1222782,2311,1744028
+gujarat,2020,4,ahmadabad,1404202,2306,2787991
+gujarat,2020,2,ahmadabad,396800,2282,2384154
+andhra-pradesh,2020,2,chittoor,395099,2228,1385916
+gujarat,2020,3,surat,544354,2206,2092712
+maharashtra,2020,3,kolhapur,652181,2171,0
+delhi,2020,2,west,341511,2159,1243875
+karnataka,2020,3,mysuru,558128,2128,923296
+west-bengal,2020,2,north twenty four parganas,355405,2047,1966125
+karnataka,2020,3,belagavi,533172,2016,951629
+rajasthan,2020,2,jaipur,379106,2009,3182014
+haryana,2020,3,gurugram,454846,1999,1949331
+maharashtra,2020,4,nagpur,1280886,1994,1637270
+andhra-pradesh,2020,2,ysr,343002,1978,0
+uttar-pradesh,2020,3,gautam buddha nagar,502733,1969,1885370
+andhra-pradesh,2020,4,east godavari,1355741,1965,1746280
+andhra-pradesh,2020,2,guntur,344326,1938,1426271
+bihar,2020,3,patna,427322,1926,1625305
+west-bengal,2020,4,north twenty four parganas,1511195,1914,2321888
+andhra-pradesh,2020,2,east godavari,352220,1913,1459116
+uttar-pradesh,2020,4,gautam buddha nagar,1432507,1890,2030178
+maharashtra,2020,4,aurangabad,739598,1877,1355656
+gujarat,2020,4,surat,1147153,1858,2278232
+madhya-pradesh,2020,2,indore,307509,1839,1410157
+west-bengal,2020,3,kolkata,435620,1833,1573291
+bihar,2020,4,patna,1396144,1831,1752007
+maharashtra,2020,4,ahmednagar,875154,1824,1237321
+uttar-pradesh,2020,4,ghaziabad,1430818,1812,1647330
+andhra-pradesh,2020,4,chittoor,1168506,1727,1631331
+madhya-pradesh,2020,4,indore,912031,1712,1645564
+maharashtra,2020,2,raigad,296865,1695,0
+west-bengal,2020,4,kolkata,1306337,1692,1700474
+maharashtra,2020,4,mumbai,1248451,1677,1347356
+odisha,2020,4,khordha,954884,1675,1323794
+madhya-pradesh,2020,3,bhopal,396267,1645,1162000
+uttar-pradesh,2020,3,lucknow,426367,1629,1551932
+tamil-nadu,2020,4,chennai,1430154,1615,1731527
+telangana,2020,3,warangal urban,385281,1612,535485
+karnataka,2020,3,dharwad,358476,1606,608659
+karnataka,2020,3,560068,340876,1603,373446
+karnataka,2020,4,belagavi,924521,1586,1051934
+uttar-pradesh,2020,3,ghaziabad,389991,1585,1518450
+maharashtra,2020,4,raigad,1308133,1547,0
+andhra-pradesh,2020,4,anantapur,794053,1534,1295872
+uttar-pradesh,2020,2,ghaziabad,264005,1520,1399514
