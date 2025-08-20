@@ -1,0 +1,4 @@
+touch Aggregated/.gitkeep
+git add Aggregated/.gitkeep
+git commit -m "Add .gitkeep to Aggregated folder"
+git push origin main

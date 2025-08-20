@@ -1,0 +1,1 @@
+path = r"/content/pulse/data/aggregated/transaction/country/india/state/"
